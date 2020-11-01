@@ -12,4 +12,4 @@ Interfaces with solpiplog to change the inverter to switch to grid or solar, bas
 ## [Values sent over MQTT](/docs/mqttvalues.md)
 ## Appearance
 ![bmvlog](bmvmain.png)
-![bmvlog](bmvconfig.png)
+![bmvlog](bmvconfig.jpg)
