@@ -1,0 +1,25 @@
+## Values sent over MQTT
+
+- solpiplog/bmv/soc
+- solpiplog/bmv/volt
+- solpiplog/bmv/ampere
+- solpiplog/bmv/consumedah
+- solpiplog/bmv/watt
+- solpiplog/bmv/relay
+- solpiplog/bmv/h1
+- solpiplog/bmv/h2
+- solpiplog/bmv/h3
+- solpiplog/bmv/h4
+- solpiplog/bmv/h5
+- solpiplog/bmv/h6
+- solpiplog/bmv/h7
+- solpiplog/bmv/h8
+- solpiplog/bmv/h9
+- solpiplog/bmv/h10
+- solpiplog/bmv/h11
+- solpiplog/bmv/h12
+- solpiplog/bmv/h15
+- solpiplog/bmv/h16
+- solpiplog/bmv/h17
+- solpiplog/bmv/h18
+- solpiplog/bmv/timetogo
