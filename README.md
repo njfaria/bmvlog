@@ -4,7 +4,7 @@
 [<img alt="donate" src="https://img.shields.io/badge/donate-Paypal-green">](https://www.paypal.com/donate?hosted_button_id=ZDTGKU48JP678&source=url)
 [<img alt="Suporter Names" src="https://img.shields.io/badge/suporter-names-orange">](/docs/suporternames.md)
 
-logger for Victrons BMV Battery Monitors on Raspberry
+logger for Victrons BMV Battery Monitor and MPTT charger on Raspberry
 
 Sends data per MQTT to your local broker ( for Home Automation for example ) and to your local Emoncms account.
 Interfaces with solpiplog to change the inverter to switch to grid or solar, based on predifined SOC values.
@@ -20,4 +20,4 @@ Interfaces with solpiplog to change the inverter to switch to grid or solar, bas
 ## [Values sent over MQTT](/docs/mqttvalues.md)
 ## Appearance
 ![bmvlog](bmvmain.png)
-![bmvlog](bmvconfig.jpg)
+![bmvlog](bmvconfig.png)
